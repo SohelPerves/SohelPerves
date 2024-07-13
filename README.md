@@ -1,7 +1,6 @@
  <h1 align="center">Hi 👋, I'm Mohammad Sohel Parves</h1>
 
-- 🔭 I’m currently working on .NEt
-- 🌱 I’m currently learning Backend
+- 🔭 I’m currently learning .NET
 - 📫 How to reach me: sohelparves21@gmail.com
 - 😄 My website: https://sohel-parves.netlify.app
   
