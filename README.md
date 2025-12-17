@@ -19,4 +19,4 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,js,html,css,angular,react,mysql,github,vscode,&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,js,ts,html,css,bootstrap,angular,react,postgres,terraform,docker,aws,git,gitlab,github,visualstudio,vscode,&perline=5)](https://skillicons.dev)
